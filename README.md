@@ -58,7 +58,7 @@
 
 ---
 
-<img align="left" alt="llamallamadingo's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="llamallamadingo's Github Stats" src="https://github-readme-stats.llamallamadingo.vercel.app/api?username=llamallamadingo&show_icons=true&hide_border=true" />
 
 [website]: https://liamrichards.com
 [twitter]: https://twitter.com/codeSTACKr
