@@ -6,8 +6,7 @@
 
 - 🔭 I'm currently working on a mobile app!
 <!-- I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Mandarin (我学了中文六年了）and am picking up Arabic.
 - 🥅 2020 Goals: Build up my GitHub presence
 - ⚡ Fun fact: I play guitar and am quite good at naming country flags
 
