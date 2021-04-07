@@ -4,7 +4,7 @@
 
 ## I'm a Student at NYUAD!
 
-- 🔭 I'm currently working on a mobile app!
+- 🔭 I'm currently grinding my Operating Systems and Software Engineering Courses.
 <!-- I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning Mandarin (我学了中文六年了）and am picking up Arabic.
 - 🥅 2021 Goals: Build up my GitHub presence
