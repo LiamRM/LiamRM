@@ -4,10 +4,9 @@
 
 ## I'm a Student at NYUAD!
 
-- 🔭 I'm currently grinding my Operating Systems and Software Engineering Courses.
-<!-- I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning Mandarin (我学了中文六年了）and am picking up Arabic.
-- 🥅 2021 Goals: Build up my GitHub presence
+- 🔭 I'm currently taking Natural Language Processing and Computer Security courses.
+- 🌱 I'm currently learning Mandarin (我学了中文六年了).
+- 🥅 2021 Goal: Build up my GitHub presence
 - ⚡ Fun fact: I play guitar and am quite good at naming country flags
 
 ### Connect with me:
