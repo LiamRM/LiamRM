@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently taking Natural Language Processing and Computer Security courses.
 - 🌱 I'm currently learning Mandarin (我学了中文六年了).
-- 🥅 2021 Goal: Build up my GitHub presence
+- 🥅 2022 Goal: Build up my GitHub presence
 - ⚡ Fun fact: I play guitar and am quite good at naming country flags
 
 ### Connect with me:
