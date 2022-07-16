@@ -2,9 +2,8 @@
 
 I am **Liam** and I use *he/him* pronouns. Here is a little bit about me:
 
-- 🎓 I'm a third-year undergraduate student pursuing a bachelors degree in Computer Science at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
+- 🎓 I'm a fourth-year undergraduate student pursuing a bachelors degree in Computer Science at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 - 👨‍💻 I enjoy full-stack engineering, and have some experience in developing both web and mobile apps
-<!-- - 🚀 I will be returning to [Apollo GraphQL](https://www.apollographql.com/) after graduation to help build tools for the future of APIs -->
 - 🌎 Challenge me at naming country flags
 
 
