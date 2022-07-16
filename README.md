@@ -15,3 +15,5 @@ I am **Liam** and I use *he/him* pronouns. Here is a little bit about me:
 [<img align="left" alt="llamallamadingo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+[linkedin]: https://www.linkedin.com/in/liam-richards-6a8353196/
